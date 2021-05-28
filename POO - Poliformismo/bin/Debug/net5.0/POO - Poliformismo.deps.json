@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "POO - Poliformismo/1.0.0": {
+        "runtime": {
+          "POO - Poliformismo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POO - Poliformismo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

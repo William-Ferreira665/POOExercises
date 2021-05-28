@@ -1,0 +1,16 @@
+C:\Users\willi\Desktop\POO\POO - Poliformismo\bin\Debug\net5.0\POO - Poliformismo.exe
+C:\Users\willi\Desktop\POO\POO - Poliformismo\bin\Debug\net5.0\POO - Poliformismo.deps.json
+C:\Users\willi\Desktop\POO\POO - Poliformismo\bin\Debug\net5.0\POO - Poliformismo.runtimeconfig.json
+C:\Users\willi\Desktop\POO\POO - Poliformismo\bin\Debug\net5.0\POO - Poliformismo.runtimeconfig.dev.json
+C:\Users\willi\Desktop\POO\POO - Poliformismo\bin\Debug\net5.0\POO - Poliformismo.dll
+C:\Users\willi\Desktop\POO\POO - Poliformismo\bin\Debug\net5.0\ref\POO - Poliformismo.dll
+C:\Users\willi\Desktop\POO\POO - Poliformismo\bin\Debug\net5.0\POO - Poliformismo.pdb
+C:\Users\willi\Desktop\POO\POO - Poliformismo\obj\Debug\net5.0\POO - Poliformismo.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\POO\POO - Poliformismo\obj\Debug\net5.0\POO - Poliformismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\POO\POO - Poliformismo\obj\Debug\net5.0\POO - Poliformismo.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\POO\POO - Poliformismo\obj\Debug\net5.0\POO - Poliformismo.AssemblyInfo.cs
+C:\Users\willi\Desktop\POO\POO - Poliformismo\obj\Debug\net5.0\POO - Poliformismo.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\POO\POO - Poliformismo\obj\Debug\net5.0\POO - Poliformismo.dll
+C:\Users\willi\Desktop\POO\POO - Poliformismo\obj\Debug\net5.0\ref\POO - Poliformismo.dll
+C:\Users\willi\Desktop\POO\POO - Poliformismo\obj\Debug\net5.0\POO - Poliformismo.pdb
+C:\Users\willi\Desktop\POO\POO - Poliformismo\obj\Debug\net5.0\POO - Poliformismo.genruntimeconfig.cache

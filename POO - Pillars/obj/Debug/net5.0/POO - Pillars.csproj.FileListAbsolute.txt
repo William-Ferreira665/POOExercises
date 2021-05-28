@@ -1,0 +1,16 @@
+C:\Users\willi\Desktop\POO\POO - Pillars\bin\Debug\net5.0\POO - Pillars.exe
+C:\Users\willi\Desktop\POO\POO - Pillars\bin\Debug\net5.0\POO - Pillars.deps.json
+C:\Users\willi\Desktop\POO\POO - Pillars\bin\Debug\net5.0\POO - Pillars.runtimeconfig.json
+C:\Users\willi\Desktop\POO\POO - Pillars\bin\Debug\net5.0\POO - Pillars.runtimeconfig.dev.json
+C:\Users\willi\Desktop\POO\POO - Pillars\bin\Debug\net5.0\POO - Pillars.dll
+C:\Users\willi\Desktop\POO\POO - Pillars\bin\Debug\net5.0\ref\POO - Pillars.dll
+C:\Users\willi\Desktop\POO\POO - Pillars\bin\Debug\net5.0\POO - Pillars.pdb
+C:\Users\willi\Desktop\POO\POO - Pillars\obj\Debug\net5.0\POO - Pillars.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\POO\POO - Pillars\obj\Debug\net5.0\POO - Pillars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\POO\POO - Pillars\obj\Debug\net5.0\POO - Pillars.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\POO\POO - Pillars\obj\Debug\net5.0\POO - Pillars.AssemblyInfo.cs
+C:\Users\willi\Desktop\POO\POO - Pillars\obj\Debug\net5.0\POO - Pillars.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\POO\POO - Pillars\obj\Debug\net5.0\POO - Pillars.dll
+C:\Users\willi\Desktop\POO\POO - Pillars\obj\Debug\net5.0\ref\POO - Pillars.dll
+C:\Users\willi\Desktop\POO\POO - Pillars\obj\Debug\net5.0\POO - Pillars.pdb
+C:\Users\willi\Desktop\POO\POO - Pillars\obj\Debug\net5.0\POO - Pillars.genruntimeconfig.cache
